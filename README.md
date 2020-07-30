@@ -6,7 +6,7 @@ and will learn to visualize the result of your analysis.
 i used Matplotlib and seaborn for data visualization.
 you can download this library
 pip install matplotlib
-pip install seaborn
-for reading csv files we used pandas library
+pip install seaborn . 
+For reading csv files we used pandas library
 pip install pandas
 Thankyou.
